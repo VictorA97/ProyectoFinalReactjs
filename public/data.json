@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "monitor samsung",
+    "descripcion":"monitor samsung",
+    "type": "monitor",
+    "price": 1000,
+    "img": "https://images.samsung.com/is/image/samsung/latin-t35f-lf24t350fhlxzp-frontblack-301443711?$650_519_PNG$",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name": "Monitor Red dragon",
+    "descripcion":"monitor red dragon",
+    "type": "monitor",
+    "price": 1000,
+    "img": "https://redragon.es/content/uploads/2021/06/EMERALD-1.png",
+    "quanty": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Monitor LG",
+    "descripcion":"monitor LG",
+    "type": "monitor",
+    "price": 1000,
+    "img": "https://www.lg.com/uk/images/monitors/md06014999/gallery/medium01.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name": "teclado Red dragon",
+    "descripcion":"teclado red dragon ",
+    "type": "teclado",
+    "price": 500,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_858207-MLA49693533889_042022-O.webp",
+    "quanty": 1
+  },
+  {
+    "id": 5,
+    "name": "teclado hyperx",
+    "descripcion":"teclado hyperx",
+    "type": "teclado",
+    "price": 500,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_824385-MLA51631455577_092022-O.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 6,
+    "name": "teclado razer",
+    "descripcion":"teclado razer",
+    "type": "teclado",
+    "price": 500,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_671880-MLA48790785194_012022-F.webp",
+    "quanty": 1
+  },
+  {
+    "id": 7,
+    "name": "Mause razer",
+    "descripcion":"mause razer",
+    "type": "mause",
+    "price": 500,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_674581-MLA41799362594_052020-O.webp",
+    "quanty": 1
+  },
+  {
+    "id": 8,
+    "name": "Mause hyperx",
+    "descripcion":"mause hyperx",
+    "type": "mause",
+    "price": 500,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_706475-MLA31606024503_072019-O.webp",
+    "quanty": 1
+  }
+]
